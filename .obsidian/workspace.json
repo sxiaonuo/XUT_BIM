@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a97d3603cdb94bc",
+        "id": "3a4e74d67992ad61",
         "type": "tabs",
         "children": [
           {
-            "id": "a02f65d87e64cf91",
+            "id": "b9b298fa623c26e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,10 +154,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a3366cfe955e1cd",
+  "active": "b9b298fa623c26e4",
   "lastOpenFiles": [
-    "笔记/格式转换.md",
     "README.md",
+    "笔记/格式转换.md",
     "笔记/图像处理.md",
     "图片库/Pasted image 20240129155602.png",
     "图片库/Pasted image 20240129155558.png",

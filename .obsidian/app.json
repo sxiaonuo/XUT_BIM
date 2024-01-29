@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "图片库"
+  "attachmentFolderPath": "图片库",
+  "useMarkdownLinks": true
 }
