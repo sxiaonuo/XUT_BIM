@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "c6f0563d9445630d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a97d3603cdb94bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a02f65d87e64cf91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7da0f97e2ffcf0dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0491a14fdcf16148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a23d3bcb830c154",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6665a1d87800ca68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a07881d324828be7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a05a1e05cf6db85",
+    "type": "split",
+    "children": [
+      {
+        "id": "693e2c05e105a06f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a3366cfe955e1cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d84d3cebfc293d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9be971efc0576d73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a6d951c6f78d914",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "c085ce5b387231c1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 444.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8a3366cfe955e1cd",
+  "lastOpenFiles": [
+    "笔记/格式转换.md",
+    "README.md",
+    "笔记/图像处理.md",
+    "图片库/Pasted image 20240129155602.png",
+    "图片库/Pasted image 20240129155558.png",
+    "图片库/Pasted image 20240129155522.png",
+    "图片库/5d1ff55687d61f2ec3fdc3fd971449d.png",
+    "笔记",
+    "图片库"
+  ]
+}
