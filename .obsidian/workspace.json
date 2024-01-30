@@ -11,8 +11,12 @@
             "id": "30138c59f03f46f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "笔记/图像处理.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "笔记/图像处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "笔记/图像处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "笔记/图像处理.md"
+              }
             }
           },
           {
@@ -148,14 +156,14 @@
   },
   "active": "30138c59f03f46f7",
   "lastOpenFiles": [
-    "README.md",
-    "笔记/格式转换.md",
     "笔记/图像处理.md",
+    "笔记/格式转换.md",
+    "README.md",
+    "图片库/5d1ff55687d61f2ec3fdc3fd971449d.png",
     "test.txt",
     "图片库/Pasted image 20240129155602.png",
     "图片库/Pasted image 20240129155558.png",
     "图片库/Pasted image 20240129155522.png",
-    "图片库/5d1ff55687d61f2ec3fdc3fd971449d.png",
     "笔记",
     "图片库"
   ]
