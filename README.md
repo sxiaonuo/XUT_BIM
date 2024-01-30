@@ -25,5 +25,5 @@ cad学生认证：[学生认证](https://zhuanlan.zhihu.com/p/341446584)
 ezdxf官方文档 [Quick-Info — ezdxf 1.2.0b1 documentation (mozman.at)](https://ezdxf.mozman.at/docs/)
 
 ### 读图
-[格式转换](/笔记/格式转换)
-[图像处理](/笔记/图像处理)
+[格式转换](/笔记/格式转换.md)
+[图像处理](/笔记/图像处理.md)
