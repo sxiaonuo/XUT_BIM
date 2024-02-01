@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/图像处理.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/图像处理.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/图像处理.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/图像处理.md"
+                "file": "README.md"
               }
             }
           },
@@ -154,8 +154,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ed2d9f467bb1dc1b",
+  "active": "3a23d3bcb830c154",
   "lastOpenFiles": [
+    "笔记/相关项目.md",
+    "README.md",
+    "笔记/格式转换.md",
     "first.ipynb",
     "新建文件夹",
     "src/第一个图纸集.dst",
@@ -167,10 +170,6 @@
     "src/DXF1.bak",
     "src/Drawing1.dxf",
     "src/Drawing1.bak",
-    "src",
-    "笔记/格式转换.md",
-    "笔记/图像处理.md",
-    "README.md",
     "图片库/5d1ff55687d61f2ec3fdc3fd971449d.png",
     "图片库/Pasted image 20240129155602.png",
     "图片库/Pasted image 20240129155558.png",
