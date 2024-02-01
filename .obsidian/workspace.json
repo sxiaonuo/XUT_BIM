@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50465709386dad3a",
+        "id": "a9226ba54962059f",
         "type": "tabs",
         "children": [
           {
-            "id": "7ab0c05338914cc9",
+            "id": "ed2d9f467bb1dc1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "笔记/图像处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "笔记/图像处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "笔记/图像处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "笔记/图像处理.md"
               }
             }
           },
@@ -154,17 +154,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7ab0c05338914cc9",
+  "active": "ed2d9f467bb1dc1b",
   "lastOpenFiles": [
-    "README.md",
+    "first.ipynb",
+    "新建文件夹",
+    "src/第一个图纸集.dst",
+    "src/DXF2.pdf",
+    "src/DXF2.jpg",
+    "src/DXF2.dxf",
+    "src/DXF2 (2).dxf",
+    "src/DXF1.dxf",
+    "src/DXF1.bak",
+    "src/Drawing1.dxf",
+    "src/Drawing1.bak",
+    "src",
     "笔记/格式转换.md",
     "笔记/图像处理.md",
+    "README.md",
     "图片库/5d1ff55687d61f2ec3fdc3fd971449d.png",
-    "test.txt",
     "图片库/Pasted image 20240129155602.png",
     "图片库/Pasted image 20240129155558.png",
-    "图片库/Pasted image 20240129155522.png",
-    "笔记",
-    "图片库"
+    "图片库/Pasted image 20240129155522.png"
   ]
 }
