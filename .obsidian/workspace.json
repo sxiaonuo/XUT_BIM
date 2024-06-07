@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d2c89e19bd8a09fc",
+        "id": "64e364c2c09fa6e3",
         "type": "tabs",
         "children": [
           {
-            "id": "8d828986b667bad2",
+            "id": "a3dfeae22d81368f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "论文研读/自动提取技术图纸信息/自动提取信息导读.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,11 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8d828986b667bad2",
+  "active": "c085ce5b387231c1",
   "lastOpenFiles": [
+    "test.md",
+    "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
     "论文研读/自动提取技术图纸信息/applsci-11-04727-v2.pdf",
     "README.md",
-    "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
     "论文研读/CAD深度学习/CAD深度学习导读.md",
     "CAD二次开发",
     "nzp6A92.tmp",
