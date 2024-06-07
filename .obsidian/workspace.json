@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9226ba54962059f",
+        "id": "d2c89e19bd8a09fc",
         "type": "tabs",
         "children": [
           {
-            "id": "ed2d9f467bb1dc1b",
+            "id": "8d828986b667bad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "论文研读/自动提取技术图纸信息/自动提取信息导读.md"
               }
             }
           },
@@ -154,26 +154,37 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3a23d3bcb830c154",
+  "active": "8d828986b667bad2",
   "lastOpenFiles": [
-    "安装.md",
-    "笔记/相关项目.md",
-    "笔记/格式转换.md",
+    "论文研读/自动提取技术图纸信息/applsci-11-04727-v2.pdf",
     "README.md",
-    "first.ipynb",
-    "新建文件夹",
-    "src/第一个图纸集.dst",
-    "src/DXF2.pdf",
+    "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
+    "论文研读/CAD深度学习/CAD深度学习导读.md",
+    "CAD二次开发",
+    "nzp6A92.tmp",
+    "旧的.zip",
+    "笔记/相关项目.md",
+    "旧的/笔记/相关项目.md",
+    "旧的/笔记/格式转换.md",
+    "旧的/笔记",
+    "笔记/格式转换.md",
+    "旧的/annotation-tools/src/images/0012-0009.png",
+    "旧的/annotation-tools/dst/train/0012-0009_3_label.npz",
+    "旧的/annotation-tools/dst/train/0012-0009_3.png",
+    "旧的/annotation-tools/dst/train/0012-0009_2.png",
+    "旧的/annotation-tools/dst/train/0012-0009_2_label.npz",
+    "旧的/annotation-tools/dst/train/0012-0009_1_label.npz",
+    "旧的/annotation-tools/dst/train/0012-0009_1.png",
+    "旧的/annotation-tools/dst/train/0012-0009_0_label.npz",
+    "旧的/annotation-tools/dst/train/0012-0009_0.png",
+    "旧的/annotation-tools/src/train.json",
+    "旧的/annotation-tools/img/0012-0009.png",
+    "旧的/annotation-tools/README.md",
+    "旧的/src/DXF2.jpg",
+    "旧的/安装.md",
     "src/DXF2.jpg",
-    "src/DXF2.dxf",
-    "src/DXF2 (2).dxf",
-    "src/DXF1.dxf",
-    "src/DXF1.bak",
-    "src/Drawing1.dxf",
-    "src/Drawing1.bak",
+    "安装.md",
     "图片库/5d1ff55687d61f2ec3fdc3fd971449d.png",
-    "图片库/Pasted image 20240129155602.png",
-    "图片库/Pasted image 20240129155558.png",
-    "图片库/Pasted image 20240129155522.png"
+    "图片库/Pasted image 20240129155602.png"
   ]
 }
