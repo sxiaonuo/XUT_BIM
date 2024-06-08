@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5968b0e4b05eacf0",
+        "id": "64e364c2c09fa6e3",
         "type": "tabs",
         "children": [
           {
-            "id": "fe292ba4ef4f8e2e",
+            "id": "a3dfeae22d81368f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "资料/git教程/快速git命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "资料/git教程/快速git命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "资料/git教程/快速git命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "资料/git教程/快速git命令.md"
               }
             }
           },
@@ -154,16 +154,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fe292ba4ef4f8e2e",
+  "active": "a3dfeae22d81368f",
   "lastOpenFiles": [
-    "test.md",
-    "README.md",
+    "数据集/数据集整理.md",
     "资料/git教程/快速git命令.md",
-    "论文研读/自动提取技术图纸信息/Improved_Automatic_Analysis_of_Architectural_Floor_Plans.pdf",
-    "论文研读/自动提取技术图纸信息/Statistical Segmentation and Structural Recognition for Floor Plan Interpretation.pdf",
+    "数据集/未命名.md",
+    "数据集",
+    "论文研读/自动提取技术图纸信息/Automatic_Extraction_of_Indoor_Spatial_Information.pdf",
+    "XUT_BIM/资料/git教程/快速git命令.md",
     "资料/git教程",
     "资料",
     "论文研读/自动提取技术图纸信息/笔记 Indoor Reconstruction from Floorplan Images with a Deep Learning Approach.md",
+    "论文研读/自动提取技术图纸信息/Statistical Segmentation and Structural Recognition for Floor Plan Interpretation.pdf",
     "论文研读/自动提取技术图纸信息/Review reconstruction of 3D building information models from 2D scanned plans.pdf",
     "论文研读/自动提取技术图纸信息/Indoor Reconstruction from Floorplan Images with a Deep Learning Approach.pdf",
     "论文研读/自动提取技术图纸信息/Evaluation of Deep Learning-Based Automatic Floor Plan Analysis Technology.pdf",
@@ -171,11 +173,12 @@
     "图片库/Pasted image 20240607165812.png",
     "图片库/Pasted image 20240607165806.png",
     "图片库/Pasted image 20240607165519.png",
-    "论文研读/自动提取技术图纸信息/j.jobe.2015.04.002.pdf",
-    "论文研读/自动提取技术图纸信息/ijgi-09-00065-v2.pdf",
     "论文研读/自动提取技术图纸信息/applsci-11-04727-v2.pdf",
     "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
+    "README.md",
     "论文研读/CAD深度学习/CAD深度学习导读.md",
+    "test.md",
+    "论文研读/自动提取技术图纸信息/j.jobe.2015.04.002.pdf",
     "笔记/相关项目.md",
     "旧的/笔记/相关项目.md",
     "旧的/笔记/格式转换.md",
