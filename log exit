@@ -1,0 +1,209 @@
+[33mcommit 410fb04acf2eb11bc634918a461946131e0cdeb0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Sat Jun 8 15:47:26 2024 +0800
+
+    更新ignore
+
+[33mcommit 35a54dc0101c17cbf1d7bfc4ee860a1af6525408[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Sat Jun 8 15:45:33 2024 +0800
+
+    疯了
+
+[33mcommit 44de4931c16a64b422fe8aec9c3ca59c67c1ab26[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Sat Jun 8 15:43:27 2024 +0800
+
+    疯了
+
+[33mcommit ab9d2382969200756d0290a41d30b1a0d9845113[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Sat Jun 8 15:40:10 2024 +0800
+
+    upadategitignore
+
+[33mcommit bf65e57e2b1b93b2f1666ef125d25713d9c10c6c[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Sat Jun 8 15:36:37 2024 +0800
+
+    upadate
+
+[33mcommit 98bfd1cb91fd9fdf3f7ca11a3f8e3ecc40f37b1f[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Sat Jun 8 15:32:43 2024 +0800
+
+    upadate
+
+[33mcommit d6e6c5e8ae998006b00a5561dba8795d91142892[m
+Merge: 7d12ded c6df2e5
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Sat Jun 8 15:27:01 2024 +0800
+
+    git快速上手: 2024-06-08 15:27:01
+
+[33mcommit 7d12ded77767ef9228c75f4778b0ef4e47ee409f[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Sat Jun 8 15:10:46 2024 +0800
+
+    updategitignore
+
+[33mcommit c6df2e5e2f8cdf2d8db394e6d20b1c9d27ec7491[m
+Author: QinXuNuo <108284453+sxiaonuo@users.noreply.github.com>
+Date:   Sat Jun 8 15:06:35 2024 +0800
+
+    Master (#4)
+    
+    * test_master
+    
+    * git快速上手: 2024-06-08 14:51:51
+
+[33mcommit ec8f7e02135c120bb4432d2b9805d1dcbbca441c[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Sat Jun 8 14:51:51 2024 +0800
+
+    git快速上手: 2024-06-08 14:51:51
+
+[33mcommit 325c8c777643dbd908a34890c52c08175caaf11a[m
+Author: QinXuNuo <108284453+sxiaonuo@users.noreply.github.com>
+Date:   Fri Jun 7 12:03:11 2024 +0800
+
+    test_master (#3)
+
+[33mcommit 762836c82a2b5ac5e0176c0bde7a5fcdc9c0bbed[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Fri Jun 7 11:57:48 2024 +0800
+
+    test_master
+
+[33mcommit 9ce2d75b9f0bf7fc477169dd8f5d845b390f3c08[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Fri Jun 7 11:37:49 2024 +0800
+
+    test
+
+[33mcommit e3f051f428904322c1e84d406e54b0db7ba3c6b9[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Fri Jun 7 11:04:54 2024 +0800
+
+    更新：自动提取信息导读 2024-06-07 11:04:54
+
+[33mcommit 435d706152bf4a3188dc4e2d0a2c01df984432d7[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Wed Mar 27 10:57:39 2024 +0800
+
+    标注工具
+
+[33mcommit 7bde8f7550770481e58075e49fc2b650b30daa1f[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Thu Feb 8 15:59:20 2024 +0800
+
+    vault backup: 2024-02-08 15:59:20
+
+[33mcommit 984d2db6dd76e5311f58d386b61a3fdb81c75419[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Thu Feb 1 13:20:37 2024 +0800
+
+    add python
+
+[33mcommit 19c0e6b9e39e83d962d6326af88b5555f80b7ae0[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Thu Feb 1 13:17:57 2024 +0800
+
+    vault backup: 2024-02-01 13:17:57
+
+[33mcommit e90113b2c7042b223bc76f5978908ab81a676f74[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Thu Feb 1 13:08:14 2024 +0800
+
+    vault backup: 2024-02-01 13:08:13
+
+[33mcommit fcbba3865edbb1e5b2d71f52170ebc836f8bfb34[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Tue Jan 30 18:00:45 2024 +0800
+
+    vault backup: 2024-01-30 18:00:45
+
+[33mcommit 5ce61956f7f2f7d15456a35b414e03ce0a7b073f[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Tue Jan 30 17:46:26 2024 +0800
+
+    vault backup: 2024-01-30 17:46:26
+
+[33mcommit e2f5408bf858b82d0cc2212bf78a51da66c2c583[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Tue Jan 30 17:44:07 2024 +0800
+
+    vault backup: 2024-01-30 17:44:07
+
+[33mcommit 2864e354bfafb113f01fed217884a7794878fe1c[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Tue Jan 30 17:39:46 2024 +0800
+
+    vault backup: 2024-01-30 17:39:46
+
+[33mcommit f8f01b158cee96ec9b5fe982cc3ad764d1d304de[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Tue Jan 30 17:35:05 2024 +0800
+
+    vault backup: 2024-01-30 17:35:05
+
+[33mcommit b3f64e3edabb1e2c1a45acf4729d5ef2cc263e81[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Tue Jan 30 17:20:28 2024 +0800
+
+    vault backup: 2024-01-30 17:20:28
+
+[33mcommit 1e113e36a84fa9cb5a07a9e491cc4574a3c8294b[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Tue Jan 30 17:18:45 2024 +0800
+
+    vault backup: 2024-01-30 17:18:45
+
+[33mcommit d5e0772065964df8bcb3ba710bba373cf78e3c46[m
+Merge: bfd4776 2f9628e
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Tue Jan 30 17:18:03 2024 +0800
+
+    Merge remote-tracking branch 'XUT_BIM/main'
+
+[33mcommit 2f9628e4f83b6c8a4a82161bab5a8ed44b82a0ca[m
+Author: lu_q <2302008968@qq.com>
+Date:   Mon Jan 29 20:29:54 2024 +0800
+
+    ql succeeded
+
+[33mcommit bfd477691d5906eb4c2db389e5bb00e7a8725d3f[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Mon Jan 29 19:50:53 2024 +0800
+
+    11
+
+[33mcommit 76fadf1613fabb128837f2e373372e65a8830a73[m
+Author: QinXuNuo <108284453+sxiaonuo@users.noreply.github.com>
+Date:   Mon Jan 29 19:44:34 2024 +0800
+
+    Update README.md
+
+[33mcommit 06be9114c4dbbc7ea6ec33afd2bcd9698df15d7b[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Mon Jan 29 17:06:58 2024 +0800
+
+    vault backup: 2024-01-29 17:06:57
+
+[33mcommit 96f3896add09eb34c91f0397abdf669a2b99d086[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Mon Jan 29 17:05:41 2024 +0800
+
+    vault backup: 2024-01-29 17:05:41
+
+[33mcommit fb50bcc1f2a88a0cf7180129e1a6933978d57576[m
+Author: QinXuNuo <3404376223@qq.com>
+Date:   Mon Jan 29 17:01:05 2024 +0800
+
+    vault backup: 2024-01-29 17:01:05
+
+[33mcommit 187c394e4825281f1f53317a7f9d8d57e655204a[m
+Author: QinXuNuo <108284453+sxiaonuo@users.noreply.github.com>
+Date:   Sun Jan 28 21:04:49 2024 +0800
+
+    Initial commit

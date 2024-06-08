@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "资料/git教程/快速git命令.md",
+                "file": "数据集/数据集整理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "资料/git教程/快速git命令.md",
+                "file": "数据集/数据集整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "资料/git教程/快速git命令.md",
+                "file": "数据集/数据集整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "资料/git教程/快速git命令.md"
+                "file": "数据集/数据集整理.md"
               }
             }
           },
@@ -156,8 +156,17 @@
   },
   "active": "a3dfeae22d81368f",
   "lastOpenFiles": [
-    "数据集/数据集整理.md",
+    "图片库/Pasted image 20240608172940.png",
+    "图片库/Pasted image 20240608172925.png",
+    "图片库/Pasted image 20240608172911.png",
+    "图片库/Pasted image 20240608172849.png",
+    "图片库/Pasted image 20240608172828.png",
+    "图片库/Pasted image 20240608172810.png",
+    "图片库/Pasted image 20240608172753.png",
+    "图片库/Pasted image 20240608172728.png",
     "资料/git教程/快速git命令.md",
+    "log exit",
+    "数据集/数据集整理.md",
     "数据集/未命名.md",
     "数据集",
     "论文研读/自动提取技术图纸信息/Automatic_Extraction_of_Indoor_Spatial_Information.pdf",
@@ -172,23 +181,15 @@
     "图片库/Pasted image 20240608142138.png",
     "图片库/Pasted image 20240607165812.png",
     "图片库/Pasted image 20240607165806.png",
-    "图片库/Pasted image 20240607165519.png",
     "论文研读/自动提取技术图纸信息/applsci-11-04727-v2.pdf",
     "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
     "README.md",
     "论文研读/CAD深度学习/CAD深度学习导读.md",
     "test.md",
-    "论文研读/自动提取技术图纸信息/j.jobe.2015.04.002.pdf",
     "笔记/相关项目.md",
     "旧的/笔记/相关项目.md",
     "旧的/笔记/格式转换.md",
     "笔记/格式转换.md",
-    "旧的/annotation-tools/src/images/0012-0009.png",
-    "旧的/annotation-tools/dst/train/0012-0009_3.png",
-    "旧的/annotation-tools/dst/train/0012-0009_2.png",
-    "旧的/annotation-tools/dst/train/0012-0009_1.png",
-    "旧的/annotation-tools/dst/train/0012-0009_0.png",
-    "旧的/annotation-tools/img/0012-0009.png",
     "旧的/annotation-tools/README.md",
     "旧的/安装.md",
     "安装.md"
