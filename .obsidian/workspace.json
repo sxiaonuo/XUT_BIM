@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5968b0e4b05eacf0",
+        "id": "276a5c4391d728ca",
         "type": "tabs",
         "children": [
           {
-            "id": "fe292ba4ef4f8e2e",
+            "id": "c2df3c848afbf8c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 243.5
   },
   "right": {
     "id": "8a05a1e05cf6db85",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "test.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,38 +155,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fe292ba4ef4f8e2e",
+  "active": "c2df3c848afbf8c0",
   "lastOpenFiles": [
-    "test.md",
-    "README.md",
-    "资料/git教程/快速git命令.md",
+    "论文研读/CAD深度学习/CAD深度学习导读.md",
+    "数据集/数据集整理.md",
+    "论文研读/自动提取技术图纸信息/HSL2013.pdf",
+    "论文研读/自动提取技术图纸信息/ijgi-09-00065-v2.pdf",
     "论文研读/自动提取技术图纸信息/Improved_Automatic_Analysis_of_Architectural_Floor_Plans.pdf",
-    "论文研读/自动提取技术图纸信息/Statistical Segmentation and Structural Recognition for Floor Plan Interpretation.pdf",
-    "资料/git教程",
-    "资料",
-    "论文研读/自动提取技术图纸信息/笔记 Indoor Reconstruction from Floorplan Images with a Deep Learning Approach.md",
-    "论文研读/自动提取技术图纸信息/Review reconstruction of 3D building information models from 2D scanned plans.pdf",
     "论文研读/自动提取技术图纸信息/Indoor Reconstruction from Floorplan Images with a Deep Learning Approach.pdf",
+    "论文研读/自动提取技术图纸信息/j.jobe.2015.04.002.pdf",
+    "论文研读/自动提取技术图纸信息/applsci-11-04727-v2.pdf",
+    "数据集",
+    "图片库/Pasted image 20240608172940.png",
+    "图片库/Pasted image 20240608172925.png",
+    "图片库/Pasted image 20240608172911.png",
+    "图片库/Pasted image 20240608172849.png",
+    "图片库/Pasted image 20240608172828.png",
+    "图片库/Pasted image 20240608172810.png",
+    "图片库/Pasted image 20240608172753.png",
+    "图片库/Pasted image 20240608172728.png",
+    "log exit",
+    "README.md",
+    "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
+    "论文研读/自动提取技术图纸信息/笔记 Indoor Reconstruction from Floorplan Images with a Deep Learning Approach.md",
     "论文研读/自动提取技术图纸信息/Evaluation of Deep Learning-Based Automatic Floor Plan Analysis Technology.pdf",
+    "test.md",
+    "资料/git教程/快速git命令.md",
+    "论文研读/自动提取技术图纸信息/Statistical Segmentation and Structural Recognition for Floor Plan Interpretation.pdf",
     "图片库/Pasted image 20240608142138.png",
     "图片库/Pasted image 20240607165812.png",
-    "图片库/Pasted image 20240607165806.png",
-    "图片库/Pasted image 20240607165519.png",
-    "论文研读/自动提取技术图纸信息/j.jobe.2015.04.002.pdf",
-    "论文研读/自动提取技术图纸信息/ijgi-09-00065-v2.pdf",
-    "论文研读/自动提取技术图纸信息/applsci-11-04727-v2.pdf",
-    "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
-    "论文研读/CAD深度学习/CAD深度学习导读.md",
     "笔记/相关项目.md",
     "旧的/笔记/相关项目.md",
     "旧的/笔记/格式转换.md",
     "笔记/格式转换.md",
-    "旧的/annotation-tools/src/images/0012-0009.png",
-    "旧的/annotation-tools/dst/train/0012-0009_3.png",
-    "旧的/annotation-tools/dst/train/0012-0009_2.png",
-    "旧的/annotation-tools/dst/train/0012-0009_1.png",
-    "旧的/annotation-tools/dst/train/0012-0009_0.png",
-    "旧的/annotation-tools/img/0012-0009.png",
     "旧的/annotation-tools/README.md",
     "旧的/安装.md",
     "安装.md"
