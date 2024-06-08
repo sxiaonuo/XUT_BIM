@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "64e364c2c09fa6e3",
+        "id": "5968b0e4b05eacf0",
         "type": "tabs",
         "children": [
           {
-            "id": "4291403c48a3d423",
+            "id": "fe292ba4ef4f8e2e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test.md"
+              }
             }
           },
           {
@@ -149,12 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4291403c48a3d423",
+  "active": "fe292ba4ef4f8e2e",
   "lastOpenFiles": [
+    "资料/git教程/快速git命令.md",
     "README.md",
     "论文研读/自动提取技术图纸信息/Improved_Automatic_Analysis_of_Architectural_Floor_Plans.pdf",
     "test.md",
-    "资料/git教程/快速git命令.md",
     "论文研读/自动提取技术图纸信息/Statistical Segmentation and Structural Recognition for Floor Plan Interpretation.pdf",
     "资料/git教程",
     "资料",
