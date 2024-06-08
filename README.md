@@ -26,6 +26,10 @@
 ---
 
 ## 资料
+
+### github快速上手
+[快速git命令](快速git命令.md)
+
 ### CAD安装教程
 cad学生认证：[学生认证](https://zhuanlan.zhihu.com/p/341446584)
 [CAD中文官网](https://www.autodesk.com.cn/)
