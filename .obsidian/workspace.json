@@ -8,41 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "676357fac397866d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "论文研读/自动提取技术图纸信息/Improved_Automatic_Analysis_of_Architectural_Floor_Plans.pdf"
-              }
-            }
-          },
-          {
-            "id": "b8604695cea9f905",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4291403c48a3d423",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,10 +149,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b8604695cea9f905",
+  "active": "4291403c48a3d423",
   "lastOpenFiles": [
-    "论文研读/自动提取技术图纸信息/Statistical Segmentation and Structural Recognition for Floor Plan Interpretation.pdf",
+    "README.md",
+    "论文研读/自动提取技术图纸信息/Improved_Automatic_Analysis_of_Architectural_Floor_Plans.pdf",
+    "test.md",
     "资料/git教程/快速git命令.md",
+    "论文研读/自动提取技术图纸信息/Statistical Segmentation and Structural Recognition for Floor Plan Interpretation.pdf",
     "资料/git教程",
     "资料",
     "论文研读/自动提取技术图纸信息/笔记 Indoor Reconstruction from Floorplan Images with a Deep Learning Approach.md",
@@ -191,13 +166,10 @@
     "图片库/Pasted image 20240607165812.png",
     "图片库/Pasted image 20240607165806.png",
     "图片库/Pasted image 20240607165519.png",
-    "README.md",
     "论文研读/自动提取技术图纸信息/j.jobe.2015.04.002.pdf",
     "论文研读/自动提取技术图纸信息/ijgi-09-00065-v2.pdf",
     "论文研读/自动提取技术图纸信息/applsci-11-04727-v2.pdf",
-    "论文研读/自动提取技术图纸信息/HSL2013.pdf",
     "论文研读/自动提取技术图纸信息/自动提取信息导读.md",
-    "test.md",
     "论文研读/CAD深度学习/CAD深度学习导读.md",
     "笔记/相关项目.md",
     "旧的/笔记/相关项目.md",
